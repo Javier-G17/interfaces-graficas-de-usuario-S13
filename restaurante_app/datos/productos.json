@@ -1,0 +1,23 @@
+[
+    {
+        "codigo": "01",
+        "nombre": "Piña",
+        "categoria": "frutas",
+        "precio": 3.0,
+        "stock": 13
+    },
+    {
+        "codigo": "03",
+        "nombre": "Chocolate",
+        "categoria": "comestible",
+        "precio": 5.75,
+        "stock": 6
+    },
+    {
+        "codigo": "04",
+        "nombre": "Anis",
+        "categoria": "Comestible",
+        "precio": 0.5,
+        "stock": 15
+    }
+]

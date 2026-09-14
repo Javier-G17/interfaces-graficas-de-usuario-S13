@@ -127,9 +127,9 @@ Pantalla principal de la aplicación.
 1. Abrir una terminal en la carpeta restaurante_app.
 2. Ejecutar el siguiente comando:
 
-bash
+```bash
 python main.py
-
+```
 
 3. Ingresar las credenciales registradas en usuarios.json.
 4. Utilizar las opciones disponibles dentro de la aplicación.
